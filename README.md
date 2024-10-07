@@ -3,7 +3,6 @@
   <img alt="FreeCodeCamp" src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg">
 </picture>
 <h3  align="center">Markdown Previewer</h3>
->
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="sass" />
@@ -87,6 +86,7 @@ Global styling are defined using **SCSS**
 
 <details>
 <summary><code>App.scss</code></summary>
+
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
 
@@ -299,7 +299,6 @@ main {
     margin: 1rem 0;
   }
 }
-
 ```
 </details>
 
