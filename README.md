@@ -1,14 +1,11 @@
 <div align="center" class="container">
-<h3  align="center">FreeCodeCamp Markdown Previewer</h3>
 <picture>
   <img alt="FreeCodeCamp" src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg">
 </picture>
+<h3  align="center">Markdown Previewer</h3>
 >
-//React
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-// Vite
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
-// Sass
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="sass" />
   </div>
 </div>
@@ -90,7 +87,7 @@ Global styling are defined using **SCSS**
 
 <details>
 <summary><code>App.scss</code></summary>
-```
+```css
 @import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
 
 :root {
