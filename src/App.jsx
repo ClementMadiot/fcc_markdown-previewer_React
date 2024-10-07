@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./App.scss";
+import "./style/App.scss"
 import ReactMarkdown from "react-markdown";
 
 const markdown = `
